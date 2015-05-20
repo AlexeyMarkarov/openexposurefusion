@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/MainWindow.qml</file>
+        <file>qml/MeasureControl.qml</file>
+        <file>qml/OefButtonStyle.qml</file>
+        <file>qml/OefMenuBarStyle.qml</file>
+        <file alias="mertens.cl">resources/mertens.cl</file>
+        <file>qml/OefListView.qml</file>
+        <file>qml/OefProgressBarStyle.qml</file>
+        <file>qml/AboutDialog.qml</file>
+        <file>qml/DebugLogDialog.qml</file>
+    </qresource>
+    <qresource prefix="/license">
+        <file alias="exposureFusion.txt">resources/exposureFusion.txt</file>
+        <file alias="gpl3.txt">resources/gpl3.txt</file>
+    </qresource>
+</RCC>
